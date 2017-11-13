@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module-configurations>
+    <autologinweb>
+  		<package>com.codingsimply.ellucianmobile.AutoLoginWebModule</package>
+  	  <activity>AutoLoginActivityActivity</activity>
+    </autologinweb>
+</module-configurations>

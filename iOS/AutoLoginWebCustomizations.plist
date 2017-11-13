@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Custom Modules</key>
+	<dict>
+		<key>autologinweb</key>
+		<dict>
+			<key>iPhone Storyboard Name</key>
+			<string>AutoLoginWebStoryboard_iPhone</string>
+			<key>iPad Storyboard Name</key>
+			<string>AutoLoginWebStoryboard_iPad</string>
+			<key>iPad Storyboard Identifier</key>
+			<string>autologinweb</string>
+			<key>iPhone Storyboard Identifier</key>
+			<string>autologinweb</string>
+			<key>Needs Authentication</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
